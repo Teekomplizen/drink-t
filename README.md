@@ -10,3 +10,6 @@
 | Rhodamine Red	| 27N | Rhodamine Red | #ED0091 | 237/0/145 | 0/100/39/7 |
 
 Pantone (PMS) / HKS / CYMK / Hex / RGB Tabelle: https://www.pinkcube.de/pantone-pms/hks/cymk/hex/rgb-tabelle
+
+## Lizenz
+Alle Erzeugnisse, ob Logo, Rezepturen oder sonstige Daten sind unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) lizensiert: https://github.com/Teekomplizen/drink-t/blob/master/LICENSE
