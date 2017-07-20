@@ -11,5 +11,9 @@
 
 Pantone (PMS) / HKS / CYMK / Hex / RGB Tabelle: https://www.pinkcube.de/pantone-pms/hks/cymk/hex/rgb-tabelle
 
+## Schrift
+
+Die folgende Schriftart wird für Druckerzeugnisse verwenden: Raleway https://fonts.google.com/specimen/Raleway
+
 ## Lizenz
 Alle Erzeugnisse, ob Logo, Rezepturen oder sonstige Daten sind unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) lizensiert: https://github.com/Teekomplizen/drink-t/blob/master/LICENSE
