@@ -8,3 +8,5 @@
 | Schwarz      | 90N | Black | #3D332B | 61/51/43 | 0/16/30/76 |
 | Rosa      | 21N | 1775 | #3D332B | 249/132/142 | 0/47/43/2 |
 | Rhodamine Red	| 27N | Rhodamine Red | #ED0091 | 237/0/145 | 0/100/39/7 |
+
+Pantone (PMS) / HKS / CYMK / Hex / RGB Tabelle: https://www.pinkcube.de/pantone-pms/hks/cymk/hex/rgb-tabelle
