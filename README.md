@@ -1,4 +1,7 @@
-# drink-t
+# drink t
+
+## Rezepturen
+Unsere genaue Rezeptur ist noch in Arbeit und wir stellen sie online, sobald wir uns auf dem Markt positioniert haben. Wir stehen noch am Anfang und wir bitten um dein Verständnis, dass wir bei einer commercial free Lizenz erstmal abwarten müssen Wenn du das Rezept gerne privat ausprobieren möchtest, dann schreibe uns doch einfach kurz eine E-Mail an: info@teekomplizen.de.
 
 ## Farben
 | Name        | HKS           | Pantone  | HEX | R/G/B | C/M/Y/K |
