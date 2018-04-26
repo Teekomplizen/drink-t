@@ -1,7 +1,35 @@
 # drink t
 
 ## Rezepturen
-Unsere genaue Rezeptur ist noch in Arbeit und wir stellen sie online, sobald wir uns auf dem Markt positioniert haben. Wir stehen noch am Anfang und wir bitten um dein Verständnis, dass wir bei einer commercial free Lizenz erstmal abwarten müssen Wenn du das Rezept gerne privat ausprobieren möchtest, dann schreibe uns doch einfach kurz eine E-Mail an: info@teekomplizen.de.
+### green t
+
+Zutaten:
+* Teemischung (<a href="https://www.drink-t.de/produkt/green-t-dose-gruener-tee-100g/">hier erhältich</a>):
+  * 69% japanischer Sencha
+  * 15% Jasmintee
+  * 9% Orangenschalen
+  * 3% Rosenblüten
+* 3% Apfelsaft
+* 1% Zitronensaft
+
+Zubereitung:
+5 Gramm (ca. 5 teelöffel) tee für etwa 350 Ml Wasser bei ca. 75°C für 1,5 Minuten ziehen lassen. Anschließend die Säfte hinzugeben und abkühlen lassen. Fertig!
+
+### spice t
+
+Zutaten:
+* Teemischung (<a href="https://www.drink-t.de/produkt/green-t-dose-gruener-tee-100g/">hier erhältich</a>):
+  * 29% Zitronengras
+  * 13% Süßholz
+  * 10% Orangenschalen
+  * 3% Minze
+  * 2% schwarzer Pfeffer
+  * 2% Rosenblüten
+* 1% Zitronensaft
+
+Zubereitung:
+5 Gramm (ca. 5 teelöffel) tee für etwa 350 Ml Wasser bei ca. 90°C für 4 Minuten ziehen lassen. Anschließend die Säfte hinzugeben und abkühlen lassen. Fertig!
+
 
 ## Farben
 | Name        | HKS           | Pantone  | HEX | R/G/B | C/M/Y/K |
