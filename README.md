@@ -18,7 +18,7 @@ Zubereitung:
 ### spice t
 
 Zutaten:
-* Teemischung (<a href="https://www.drink-t.de/produkt/green-t-dose-gruener-tee-100g/">hier erhältich</a>):
+* Teemischung (<a href="https://www.drink-t.de/produkt/spice-t-dose-kraeutertee-100g/">hier erhältich</a>):
   * 29% Zitronengras
   * 13% Süßholz
   * 10% Orangenschalen
